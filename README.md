@@ -1,6 +1,6 @@
 ## Hey, Sahar here ! 
 
-I'm a software engineering student who likes to build mobile apps. I particularly enjoy working with Flutter but also likes experimenting with different technologies and frameworks. 
+I'm a software engineering student who likes to build mobile apps. I particularly enjoy working with Flutter but also like experimenting with different technologies and frameworks. 
 
 [My Portfolio](https://sahar-sarraj.vercel.app/#/) | [Get in touch](mailto:saharsarraj20.ss@gmail.com) | [Linkedin](https://www.linkedin.com/in/sahar-sarraj-9686b3207/) | [Resume](https://drive.google.com/file/d/1Q9Rza3dH1CXyFG5bgb3P728HxoJ0cKDi/view?usp=sharing)
 <!-- My Github streaks :
