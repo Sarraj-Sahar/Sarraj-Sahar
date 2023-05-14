@@ -7,7 +7,7 @@ I'm a software engineering student who likes to build mobile apps. I particularl
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sarraj-Sahar)](https://git.io/streak-stats)
  -->
 
-*Chekout some of my repos below :*
+*Check out some of my repos below :*
 <!--
 **Sarraj-Sahar/Sarraj-Sahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
