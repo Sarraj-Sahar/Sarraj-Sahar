@@ -2,7 +2,7 @@
 
 I'm a software engineering student who likes to build mobile apps. I particularly enjoy working with Flutter but also like experimenting with different technologies and frameworks. 
 
-[My Portfolio](https://sahar.vercel.app/) | [Get in touch](mailto:saharsarraj20.ss@gmail.com) | [Linkedin](https://www.linkedin.com/in/sahar-sarraj-9686b3207/) | [Resume](https://drive.google.com/file/d/1QwZvRQP_y5Pjv80eDKqv-l0ZC5YoBaau/view?usp=sharing)
+[My Portfolio](https://sahar.vercel.app/) | [Get in touch](mailto:saharsarraj20.ss@gmail.com) | [Linkedin](https://www.linkedin.com/in/sahar-sarraj-9686b3207/) | [Resume](https://drive.google.com/file/d/1w9c0XYPvK5bwUIiR0kqaWoQ5YwBw07pB/view?usp=drive_link)
 <!-- My Github streaks :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sarraj-Sahar)](https://git.io/streak-stats)
  -->
